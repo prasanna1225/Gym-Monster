@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gym-Monster/static/css/main.221ba0f5.css",
+    "main.js": "/Gym-Monster/static/js/main.6a15b53c.js",
+    "static/media/BannerImg0.jpg": "/Gym-Monster/static/media/BannerImg0.a59650c897b9390f7733.jpg",
+    "static/media/gym.png": "/Gym-Monster/static/media/gym.56275babfd192c4ba1d3.png",
+    "static/media/body-part.png": "/Gym-Monster/static/media/body-part.bb44ba93943a366fb247.png",
+    "index.html": "/Gym-Monster/index.html",
+    "main.221ba0f5.css.map": "/Gym-Monster/static/css/main.221ba0f5.css.map",
+    "main.6a15b53c.js.map": "/Gym-Monster/static/js/main.6a15b53c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221ba0f5.css",
+    "static/js/main.6a15b53c.js"
+  ]
+}
